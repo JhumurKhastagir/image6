@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}  
+.total
+{
+    display: flex;
+    height: 800px;
+}
+.left_side
+{
+    width: 30%;
+    height: 100%;
+background-color: brown;
+color: white;
+}  
+.right_side
+{
+width:70%;
+background-color: aqua;
+height: 100%;
+}
+.header
+{
+background-color: royalblue;
+height: 100px;
+color: white;
+text-align: center;
+}
+.middle
+{
+    display: flex;
+    background-color: greenyellow;
+    height: 600px;
+    color: white;
+    text-align: center;
+}
+.footer
+{
+    background-color:yellow;
+    height: 100px;
+    text-align: center;
+    color: white;
+}
